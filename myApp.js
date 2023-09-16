@@ -3,7 +3,7 @@ let app = express();
 
 
 app.use('/', (req, res) => {
-    res.send('hello samuel')
+    res.send('hello world')
 })
 
 
